@@ -9,7 +9,7 @@ exports.config = {
                 "data"
             ]
         },
-        networkInterface: "10.0.0.10",
+        networkInterface: "127.0.0.1",
         port: 44600
     },
     // LFU Cache Policy is not implemented yet...    
