@@ -17,6 +17,7 @@
 
 ## TODO
 
+-   Add automated regression tests!
 -   Add fuzzy query operation feature
 -   Add LFU cache policy feature
 -   Add graceful shutdown
